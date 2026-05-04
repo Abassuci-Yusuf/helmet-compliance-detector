@@ -38,6 +38,6 @@ without significant accuracy tradeoff.
 ## Model Weights
 Due to file size, weights are hosted on Google Drive.
 - [Download best.pt]([your_drive_link_here](https://drive.google.com/drive/folders/1J-gCaDv5NzWeosneMhx03gsY4XKq6jRG?usp=drive_link))
-
+or See [models/README.md](models/README.md)
 ## Status
 🚧 Streamlit deployment in progress
